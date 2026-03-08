@@ -1,0 +1,36 @@
+item_id,item_name,category,cuisine,is_veg,spice_level,selling_price,food_cost
+101,Cheese Butter Masala,Main Course,North Indian,True,Medium,380,145
+102,Paneer Tikka,Starters,North Indian,True,Medium,320,130
+103,Gujarati Thali (Deluxe),Thali,Gujarati,True,Mild,450,210
+104,Masala Chaas,Beverages,Gujarati,True,Mild,60,12
+105,Garlic Naan,Breads,North Indian,True,Mild,90,22
+106,Gulab Jamun (2 pcs),Desserts,North Indian,True,Mild,120,35
+107,Veg Pulao,Rice,North Indian,True,Mild,240,85
+108,Roasted Papad,Sides,Gujarati,True,Mild,40,8
+109,Kaju Curry,Main Course,North Indian,True,Medium,420,180
+110,Buttermilk Special,Beverages,Gujarati,True,Mild,70,15
+111,Dal Tadka,Main Course,North Indian,True,Medium,260,95
+112,Jeera Rice,Rice,North Indian,True,Mild,190,55
+113,Butter Naan,Breads,North Indian,True,Mild,75,18
+114,Tandoori Roti,Breads,North Indian,True,Mild,40,10
+115,Paneer Lababdar,Main Course,North Indian,True,Medium,360,140
+116,Chole Masala,Main Course,North Indian,True,Medium,240,88
+117,Veg Kolhapuri,Main Course,North Indian,True,Hot,290,110
+118,Veg Manchurian,Starters,Chinese,True,Medium,260,105
+119,Hakka Noodles,Veg Noodles,Chinese,True,Medium,220,90
+120,Fried Rice,Veg Fried Rice,Chinese,True,Mild,210,82
+121,Tomato Soup,Soups,Continental,True,Mild,140,48
+122,Spring Roll,Starters,Chinese,True,Medium,240,98
+123,Idli Sambar,South Indian,South Indian,True,Mild,160,55
+124,Masala Dosa,South Indian,South Indian,True,Medium,220,80
+125,Filter Coffee,Beverages,South Indian,True,Mild,90,20
+126,Brownie with Ice Cream,Desserts,Continental,True,Mild,180,70
+127,Fresh Lime Soda,Beverages,Continental,True,Mild,90,18
+128,Cheese Garlic Bread,Starters,Continental,True,Mild,210,95
+129,Veg Biryani,Rice,North Indian,True,Medium,280,110
+130,Boondi Raita,Sides,North Indian,True,Mild,110,35
+131,Paneer Bhurji,Main Course,North Indian,True,Medium,320,125
+132,Stuffed Paratha,Breads,North Indian,True,Medium,180,70
+133,Veg Sandwich,Snacks,Continental,True,Mild,160,65
+134,French Fries,Snacks,Continental,True,Mild,150,55
+135,Cold Drink (Can),Beverages,Other,True,Mild,60,35
